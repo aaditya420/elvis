@@ -1,0 +1,10 @@
+.vscode
+
+bin
+include
+lib
+
+db.*
+*/migrations
+
+*/__pycache__
