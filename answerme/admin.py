@@ -1,3 +1,5 @@
 from django.contrib import admin
+from .models import LINKS
 
-# Register your models here.
+
+admin.site.register(LINKS)
